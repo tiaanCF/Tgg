@@ -36,9 +36,9 @@
 "hometown" : "Carlsbad",
 "ratTalent" : "92",
 "baselinePrestige" : "95",
-"coachingAbility" : "82",
+"coachingAbility" : "88",
 "name" : "Julian Brettmann",
-"contractYear" : "0"
+"contractYear" : "1"
 },
 "rival" : [
 "AUB"
@@ -1267,7 +1267,7 @@
 },
 {
 "abbreviation" : "SMU",
-"prestige" : "84",
+"prestige" : "82",
 "hexColor" : "#EE7524",
 "rivalryNames" : {
 
@@ -2002,7 +2002,7 @@
 },
 {
 "abbreviation" : "OKST",
-"prestige" : "81",
+"prestige" : "79",
 "hexColor" : "#FF5B00",
 "rivalryNames" : {
 
@@ -2058,7 +2058,7 @@
 },
 {
 "abbreviation" : "COL",
-"prestige" : "81",
+"prestige" : "78",
 "hexColor" : "#000000",
 "rivalryNames" : {
 
@@ -2114,7 +2114,7 @@
 },
 {
 "abbreviation" : "CIN",
-"prestige" : "80",
+"prestige" : "78",
 "hexColor" : "#917826",
 "rivalryNames" : {
 
@@ -2170,7 +2170,7 @@
 },
 {
 "abbreviation" : "IST",
-"prestige" : "77",
+"prestige" : "79",
 "hexColor" : "#B50038",
 "rivalryNames" : {
 
@@ -2226,7 +2226,7 @@
 },
 {
 "abbreviation" : "BAY",
-"prestige" : "76",
+"prestige" : "79",
 "hexColor" : "#004E37",
 "rivalryNames" : {
 
@@ -2513,7 +2513,7 @@
 },
 {
 "abbreviation" : "AZST",
-"prestige" : "81",
+"prestige" : "76",
 "hexColor" : "#94003D",
 "rivalryNames" : {
 
@@ -2569,7 +2569,7 @@
 },
 {
 "abbreviation" : "UCLA",
-"prestige" : "80",
+"prestige" : "79",
 "hexColor" : "#0048FF",
 "rivalryNames" : {
 
@@ -2625,7 +2625,7 @@
 },
 {
 "abbreviation" : "SCAR",
-"prestige" : "80",
+"prestige" : "78",
 "hexColor" : "#BD0000",
 "rivalryNames" : {
 
@@ -2737,7 +2737,7 @@
 },
 {
 "abbreviation" : "CAL",
-"prestige" : "77",
+"prestige" : "79",
 "hexColor" : "#000051",
 "rivalryNames" : {
 
@@ -2793,7 +2793,7 @@
 },
 {
 "abbreviation" : "ARI",
-"prestige" : "77",
+"prestige" : "79",
 "hexColor" : "#00002C",
 "rivalryNames" : {
 
@@ -3080,7 +3080,7 @@
 },
 {
 "abbreviation" : "PITT",
-"prestige" : "80",
+"prestige" : "79",
 "hexColor" : "#00004F",
 "rivalryNames" : {
 
@@ -3136,7 +3136,7 @@
 },
 {
 "abbreviation" : "KAST",
-"prestige" : "80",
+"prestige" : "77",
 "hexColor" : "#00004D",
 "rivalryNames" : {
 
@@ -3304,7 +3304,7 @@
 },
 {
 "abbreviation" : "KAN",
-"prestige" : "76",
+"prestige" : "78",
 "hexColor" : "#FF0000",
 "rivalryNames" : {
 
